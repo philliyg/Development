@@ -1,0 +1,13 @@
+{
+ "db_name": "d56cb677eaab3383", 
+ "db_password": "jrMaktxxKJSweEY3", 
+ "dormant": true, 
+ "limits": {
+  "space_usage": {
+   "backup_size": 2.0, 
+   "database_size": 12.53, 
+   "files_size": 2.0, 
+   "total": 16.53
+  }
+ }
+}
